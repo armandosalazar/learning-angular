@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Deploy
 
-`ng deploy --repo=https://github.com/armandosalazar/learn-angular.gi`
+`ng deploy --base-href=/angular-learning/`
