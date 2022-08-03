@@ -1,0 +1,7 @@
+<app-list-item
+  *ngFor="let count of counts; let id = index"
+  [id]="id"
+  [count]="count"
+  (addToCount)="onAddToCount($event)"
+  (subToCount)="onSubToCount($event)"
+></app-list-item>

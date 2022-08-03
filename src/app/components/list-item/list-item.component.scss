@@ -1,0 +1,28 @@
+.container {
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    border: #747bff 1px solid;
+    border-radius: 5px;
+    background-color: #242424;
+    color: #747bff;
+}
+.container strong {
+    margin: 5px;
+}
+.container button {
+    border: none;
+    padding: 10px;
+    width: 30px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 5px;
+    // background-color: #ccc;
+    font-weight: bold;
+    font-size: inherit;
+    background-color: #213547;
+    background-color: #242424;
+    background-color: #1a1a1a;
+    background-color: #747bff;
+    color: #242424;
+}
